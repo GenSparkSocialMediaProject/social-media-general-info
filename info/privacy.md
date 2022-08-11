@@ -4,7 +4,7 @@ event this becomes something that stays active beyond the duration of the
 training, the following fake legal document would be replaced with an actually 
 enforceable contract.
 
-![Speakr logo](../images/SpeakrLogoRASTER640px.png)
+![Speakr logo](../images/SpeakrLogoRectRASTER640px.png)
 
 # Privacy Policy
 
