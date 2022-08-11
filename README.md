@@ -1,4 +1,4 @@
-![Speakr logo](images/SpeakrLogoRASTER640px.png)
+![Speakr logo](images/SpeakrLogoRectRASTER640px.png)
 
 # Speakr! general information
 
